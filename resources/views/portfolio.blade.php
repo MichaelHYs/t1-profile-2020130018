@@ -45,7 +45,7 @@
               </div>
             </div>
         </nav>
-        <div class="container-fluid text-center">
+        <div class="container-fluid text-center mb-2 mt-2">
             <a class="btn btn-lg btn-block btn-outline-dark" href="/" role="button">
                 Close
             </a>
@@ -197,10 +197,10 @@
                     </div>
                 </div>
             </div>
-            <a class="btn btn-lg btn-block btn-outline-dark" data-bs-toggle="collapse" href="#more" role="button" aria-expanded="false" aria-controls="collapseExample">
+            <a class="btn btn-lg btn-block btn-outline-dark mb-2 mt-2" data-bs-toggle="collapse" href="#more" role="button" aria-expanded="false" aria-controls="collapseExample">
                 Show more
             </a>
-            <a class="btn btn-lg btn-block btn-outline-dark" href="/" role="button">
+            <a class="btn btn-lg btn-block btn-outline-dark mb-2 mt-2" href="/" role="button">
                 Close
             </a>
         </div>
